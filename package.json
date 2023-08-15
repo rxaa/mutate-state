@@ -1,0 +1,18 @@
+{
+  "name": "mutate-state",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "private": true,
+  "license": "UNLICENSED",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {},
+  "dependencies": {
+    "react": "*",
+    "typescript": "*"
+  },
+  "devDependencies": {
+    "@types/react": "*"
+  }
+}

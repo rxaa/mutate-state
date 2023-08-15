@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "ES2022",
+    "declaration": true,
+    "removeComments": false,
+    "strict": true,
+    "moduleResolution":"nodenext",
+    "target": "es2017",
+    "sourceMap": true,
+    "outDir": "./esm",
+    "incremental": true
+  }
+}

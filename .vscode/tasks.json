@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "typescript",
+			"tsconfig": "tsconfig.json",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"label": "tsc: build - tsconfig.json"
+		},
+		{
+			"type": "typescript",
+			"tsconfig": "tsconfig_esm.json",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"label": "tsc: build - esm - tsconfig.json"
+		}
+	]
+}
